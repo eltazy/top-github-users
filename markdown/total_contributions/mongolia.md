@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg" alt="Mongolia">
 </a>
 
-The `public contributions` and `private contributions` by users in Mongolia on `2025/3/17 8:22 PM UTC`. This list contains users from `Mongolia` and cities `Ulaanbaatar` `Ulaangom`.
+The `public contributions` and `private contributions` by users in Mongolia on `2025/3/17 9:21 PM UTC`. This list contains users from `Mongolia` and cities `Ulaanbaatar` `Ulaangom`.
 
-There are `138 countries` and `674 cities` can be found [here](https://github.com/eltazy/top-github-users).
+There are `139 countries` and `685 cities` can be found [here](https://github.com/eltazy/top-github-users).
 
 There are `883 users`  in Mongolia. You need at least `1 followers` to be on this list.
 
@@ -117,7 +117,7 @@ There are `883 users`  in Mongolia. You need at least `1 followers` to be on thi
 		<td><a href="https://twitter.com/ByamB4">ByamB4</a></td>
 		<td>Ulaanbaatar, Mongolia</td>
 		<td>259</td>
-		<td>179570</td>
+		<td>179592</td>
 	</tr>
 	<tr>
 		<td>2</td>
